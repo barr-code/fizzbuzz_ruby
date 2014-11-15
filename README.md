@@ -1,5 +1,8 @@
 # FizzBuzz
-	My latest iteration of the Fizzbuzz coding kata. I have practiced this kata many times, but never committed before. As of my most recent attempt, I can code Fizzbuzz with full TDD in 5 minutes and 24 seconds. My goal is to get under 5 minutes.
+	My latest iteration of the Fizzbuzz coding kata. I have practiced this kata
+	 many times, but never committed before. As of my most recent attempt, I can
+	  code Fizzbuzz with full TDD in 5 minutes and 24 seconds. My goal is to get
+	   under 5 minutes.
 
 ## Languages and Tools
 ```
