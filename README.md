@@ -23,4 +23,4 @@ rspec
 ```
 
 ### Other Languages
-I have also coded Fizzbuzz in [IO](git@github.com:barr-code/fizzbuzz_io.git), [Javascript](git@github.com:barr-code/Javabuzz.git), and [Coffeescript](https://github.com/Scully87/Coffee_Buzz).
+I have also coded Fizzbuzz in [IO](https://github.com/barr-code/fizzbuzz_io.git), [Javascript](https://github.com/barr-code/Javabuzz.git), and [Coffeescript](https://github.com/Scully87/Coffee_Buzz).
